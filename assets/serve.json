@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/watch/:type/:id", "destination": "/index.html" },
+    { "source": "/tv", "destination": "/tv.html" },
+    { "source": "/movies", "destination": "/movies.html" },
+    { "source": "/search", "destination": "/search.html" },
+    { "source": "/top-rated", "destination": "/top-rated.html" },
+    { "source": "/watchlist", "destination": "/watchlist.html" }
+  ]
+}

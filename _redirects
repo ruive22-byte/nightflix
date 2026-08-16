@@ -1,0 +1,2 @@
+/watch/movie/:id  /index.html  200
+/watch/tv/:id     /index.html  200
